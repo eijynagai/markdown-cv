@@ -1,91 +1,139 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Eijy's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Luis Augusto Eijy Nagai
+Biotechnologist, bioinformatician, data scientist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://en-coding.github.io/">https://en-coding.github.io/</a>
+| <a href="https://www.linkedin.com/in/enagai/">My linkedin page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am a bioinformatics scientist at the [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html) located in the core of the [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/) of the [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+NGS data analysis with experience in scRNA-seq, scATAC-seq, 3D chromatin (Hi-C), RNA-seq, and ChIP-Seq.
 
 
-### Research interests
+### Employment
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2021-today`
+__Nakato lab__ Project researcher (data scientist)
+
+`2020 - 2020`
+__Nakai lab__ Project assistant professor (data scientist)
+
+`2019 - 2020`
+__Nakai lab__ Project researcher (data scientist)
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015 - 2019`
+__University of Tokyo__
+- PhD in Computational Biology and Medical Sciences. Supervisor: Prof. Kenta Nakai. Thesis: A Computational Analysis of the Impact of 3D Chromosome Organization on its Gene Expression Regulation.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2013 - 2015`
+__University of Campinas__
+- Msc in Genetics and Molecular Biology. Supervisor: Prof. Paula R. Kuser Falcao. Dissertation: Differential analysis on genes involved in beef tenderness in Angus and Nelore beef cattle.
 
 
+`2009 - 2012`
+__Federal University of Sao Carlos__
+- Bsc in Biotechnology.
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+## Technical skills
+- R, Python, Bash, UNIX, Git, SQL.
 
-Associate, *French Academy of Science*, Paris, France
+
+
+## Areas of expertise
+- Bioinformatics, transcriptomics, epigenetics, chromatin structure, data visualization.
+
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2019`
+Soichiro Yamanaka, Hidenori Nishihara, Hidehiro Toh, **Luis Augusto Eijy Nagai**, Kosuke Hashimoto, Sung-Joon Park, Aoi Shibuya, Ana Maria Suzuki, Yujiro Tanaka, Kenta Nakai, Piero Carninci, Hiroyuki Sasaki, and Haruhiko Siomi. **Broad heterochromatic domains open in gonocyte development prior to de novo DNA methylation**. Dev. Cell (2019), S1534-5807(19)30629-X [[Dev.Cell]](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30629-X) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/31474564)
 
-`1669`
-Lectiones opticæ.
+`2019`
+**Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai. **Analyzing the 3D chromatin organization coordinating with gene expression regulation in B-cell lymphoma**. BMC Med Genomics (2019), 11 (Suppl 7):127 [[BMC]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0437-8) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/30894186)
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019`
+Leyi Wei, Shasha Luan, **Luis Augusto Eijy Nagai**, Ran Su, Quan Zou. **Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species**. Bioinformatics, v. 35, p. 1326-1333, 2019 [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Talks
 
 
+`2019`
+**Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma**
+**Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai
+[IBMP2019](https://iibmp2019.tokyo/), O-3 (oral), Sep.9-11, 2019, Tokyo, Japan
 
+`2018`
+**Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma**
+**Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai
+[The 17th International Conference On BioInformatics](http://www.incob2018.org/) (InCoB-2018), Sep. 26-28, 2018, New Delhi, India **[Best oral presentation award]**
+
+`2018`
+**Three-Dimensional Chromatin Structures Coordinate with Gene Expression Levels and Reveals Inter-chromosomal Interactions in B-Cell Lymphoma**
+**Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai
+[生命医薬情報学連合大会 (IIBMP2018)](https://www.jsbi.org/iibmp2018/index.html), P-31 (oral presentation), 2018年9月19日～21日, 鶴岡、日本
+
+
+### Poster
+
+`2019`
+**Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma**
+**Luis Augusto Eijy Nagai**, Sung-Joon Park, Kenta Nakai
+[The 42nd Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2019/), 1P-0002, Dec. 3-6, 2019, Fukuoka, Japan
+
+`2019`
+**Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma**
+**Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai
+[IIBMP2019](https://iibmp2019.tokyo/), P-1 (poster), Sep.9-11, 2019, Tokyo, Japan
+
+`2019`
+**マウス胎仔期生殖細胞におけるクロマチンリプログラミング**
+山中 総一郎, 西原 秀典, 藤 英博, **Luis Augusto Eijy Nagai**, 橋本 浩介, 朴 聖俊, 渋谷 あおい, Ana Maria Suzuki, 田中 悠二郎, 中井 謙太, Piero Carninci, 佐々木 裕之, 塩見 春彦
+[第21回日本RNA学会年会](https://www.rnaj.org/rna2019), P-45, Jul.17-19, 2019, Tokyo, Japan
+
+`2019`
+**Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma cell line**
+**Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai
+[The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=19), P177, May 7-11, 2019, Cold Spring Harbor Laboratory, NY, USA
+
+
+## Awards and funding
+
+`2015 - 2018`
+**Japanese Government (MEXT) Scholarship** (PhD fees + enhanced stipend)
+
+`2015 - 2015`
+**Japanese Government (MEXT) Scholarship** (Research student fees + stipend)
+
+`2011 - 2012`
+**National Council for Scientific and Technological Scholarship**
+
+
+
+## Reference
+
+Available on request.
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: MArch 31 -->
 
 
