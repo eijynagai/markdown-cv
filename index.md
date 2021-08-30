@@ -49,7 +49,7 @@ __Federal University of Sao Carlos__
 
 
 ## Technical skills
-- R, Python, Bash, UNIX, Git, HTML, SQL.
+- R, Python, Bash, UNIX, Git, HTML, CSS, SQL.
 
 
 
