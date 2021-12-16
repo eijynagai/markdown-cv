@@ -81,6 +81,16 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 
 
 ### Talks
+`2021`
+**Nutrient-dependent dedifferentiation of Drosophila enteroendocrine cells dissected by single cell analyses**.<br>
+Hiroki Nagai, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato and Yuichiro Nakajima.<br>
+[The 44th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2021/), 2AW-11-3, Dec. 1-3, 2021, Yokohama, Japan.
+
+`2021`
+**Integrative study of hepatic fibrosis resolution mechanisms using single-cell RNA
+sequencing**
+Eiko Saijou, Tohru Itoh, Atsushi Miyajima, **Luis Augusto Eijy Nagai** and Ryuichiro Nakato.<br>
+[The 44th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2021/), 2AW-11-4, Dec. 1-3, 2021, Yokohama, Japan.
 
 
 `2019`
