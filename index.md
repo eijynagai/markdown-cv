@@ -81,6 +81,14 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 
 
 ### Talks
+
+`2022`
+**Towards understanding the orchestration of single-cell RNA-seq analysis**.<br>
+<u>Luis Augusto Eijy Nagai</u>.<br>
+[細胞ダイバース第4回若手ワークショップ(The 4th Cell Diversity Workshop)](http://cdiversity.umin.jp/event/index.html), O-11, Jan. 26-28, 2022, (Onli    ne), Japan.
+
+
+
 `2021`
 **Nutrient-dependent dedifferentiation of Drosophila enteroendocrine cells dissected by single cell analyses**.<br>
 <u>Hiroki Nagai</u>, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato and Yuichiro Nakajima.<br>
