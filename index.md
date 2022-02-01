@@ -18,7 +18,7 @@ I am a bioinformatics scientist hired as Project Researcher (特任研究員）a
 
 ### Specialized in
 
-NGS data analysis with experience in scRNA-seq, scATAC-seq, 3D chromatin (Hi-C), RNA-seq, and ChIP-Seq.
+NGS data analysis with experience in scRNA-seq, scATAC-seq, 3D chromatin structure (Hi-C), RNA-seq, and ChIP-Seq.
 
 
 
@@ -167,10 +167,10 @@ __Ad hoc review__ for MDPI journals: Genes, Applied Sciences, Healthcare.
 ### Professional activities: memberships
 
 `2018 - current`
-__Member__ at the [International Society for Computational Biology](https://www.iscb.org/index.php)(ISCB).
+__Member__ at the [International Society for Computational Biology](https://www.iscb.org/index.php) (ISCB).
 
 `2018 - current`
-__Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/)(JSBi).
+__Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/) (JSBi).
 
 `2018 - current`
 __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) (MBSJ).
