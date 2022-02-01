@@ -21,17 +21,6 @@ I am a bioinformatics scientist hired as Project Researcher (特任研究員）a
 NGS data analysis with experience in scRNA-seq, scATAC-seq, 3D chromatin (Hi-C), RNA-seq, and ChIP-Seq.
 
 
-### Employment
-
-`2021-today`
-__Nakato lab__ Project researcher (data scientist). Laboratory of Comutational Genomics
-
-`2020 - 2020`
-__Nakai lab__ Project assistant professor (data scientist)
-
-`2019 - 2020`
-__Nakai lab__ Project researcher (data scientist)
-
 
 ## Education
 
@@ -42,7 +31,6 @@ __University of Tokyo__
 `2013 - 2015`
 __University of Campinas__
 - Msc in Genetics and Molecular Biology. Supervisor: Prof. Paula R. Kuser Falcao. Dissertation: Differential analysis on genes involved in beef tenderness in Angus and Nelore beef cattle.
-
 
 `2009 - 2012`
 __Federal University of Sao Carlos__
@@ -88,8 +76,6 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 <u>Luis Augusto Eijy Nagai</u>.<br>
 [細胞ダイバース第4回若手ワークショップ(The 4th Cell Diversity Workshop)](http://cdiversity.umin.jp/event/index.html), O-11, Jan. 26-28, 2022, (Online), Japan.
 
-
-
 `2021`
 **Nutrient-dependent dedifferentiation of Drosophila enteroendocrine cells dissected by single cell analyses**.<br>
 <u>Hiroki Nagai</u>, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato and Yuichiro Nakajima.<br>
@@ -99,7 +85,6 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 **Integrative study of hepatic fibrosis resolution mechanisms using single-cell RNA sequencing**.<br>
 <u>Eiko Saijou</u>, Tohru Itoh, Atsushi Miyajima, **Luis Augusto Eijy Nagai** and Ryuichiro Nakato.<br>
 [The 44th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2021/), 2AW-11-4, Dec. 1-3, 2021, Yokohama, Japan.
-
 
 `2019`
 **Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma**.<br>
@@ -123,7 +108,6 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 **Luis Augusto Eijy Nagai**, Hiroki Nagai, Yuichiro Nakajima and Ryuichiro Nakato.<br>
 [The 44th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2021/), 3P-0707, Dec. 1-3, 2021, Yokohama, Japan.
 
-
 `2019`
 **Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma**.<br>
 **Luis Augusto Eijy Nagai**, Sung-Joon Park, Kenta Nakai.<br>
@@ -145,7 +129,7 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 [The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=19), P177, May 7-11, 2019, Cold Spring Harbor Laboratory, NY, USA.
 
 
-## Awards and funding
+## Recognitions: scholarships
 
 `2015 - 2018`
 **Japanese Government (MEXT) Scholarship** (PhD fees + enhanced stipend).
@@ -158,8 +142,58 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 
 
 
-## Reference
+## Professional activities
 
-Available on request.
+### Professional activities: manuscript review
+
+`2021 - current`
+__Ad hoc review__ for MDPI journals: Genes, Applied Sciences, Healthcare.
+
+
+
+### Professional activities: memberships
+
+`2018 - current`
+__Member__ at the [International Society for Computational Biology](https://www.iscb.org/index.php).
+
+`2018 - current`
+__Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/)(JSBi).
+
+`2018 - current`
+__Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) (MBSJ).
+
+
+
+
+## Prior positions
+
+`2020 - 2020`
+__Project Assistant Professor__ (data scientist) at the [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
+
+`2019 - 2020`
+__Project Researcher__ (data scientist) at the [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
+
+`2015 - 2019`
+__Predoctoral Fellow__ at the [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan.
+
+`2017 - 2019`
+__English tutor__ (part-timer) at [Kanda Foreign Language Institute](https://www.kandagaigo.ac.jp/), at Kanda University of International Studies. Tokyo, Japan.
+
+`2016 - 2019`
+__English tutor__ (part-timer) at [LbE Japan](https://lbejapan.co.jp/), Global Education Project. Tokyo, Japan.
+
+`2015 - 2015`
+__Research Student__ at the [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
+
+`2012 - 2015`
+__Research Assistant__ at the [Bioinformatics Multiuser Laboratory](https://www.lmb.cnptia.embrapa.br/), EMBRAPA Agriculture Informatics, Campinas, Brazil.
+
+`2011 - 2012`
+__Undergraduate Research Fellow__ at Laboratory of Biotechnology, Dept. of Phytopathology and Molecular Biology. [The Sylvio Moreira Citrus Center (IAC)](http://www.centrodecitricultura.br), Cordeiropolis, Brazil.
+
+`2010 - 2011`
+__Summer Undergraduate Research Fellow__ at [Laboratory of Molecular Genetics](http://www.lagem.ufscar.br/_). Dept. of Plant Biotechnology. Federal University of São Carlos, Araras, Brazil.
+
+
 
 <br><br><br><br>
