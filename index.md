@@ -25,16 +25,19 @@ NGS data analysis with experience in scRNA-seq, scATAC-seq, 3D chromatin (Hi-C),
 ## Education
 
 `2015 - 2019`
-__University of Tokyo__
-- PhD in Computational Biology and Medical Sciences. Supervisor: Prof. Kenta Nakai. Thesis: A Computational Analysis of the Impact of 3D Chromosome Organization on its Gene Expression Regulation.
+__Doctor of Philosofy, Computational Biology and Medical Sciences__
+- Grad. School of Frontier Sciences. The University of Tokyo. Chiba, Japan. 
+* Supervisor: Prof. Kenta Nakai
 
 `2013 - 2015`
-__University of Campinas__
-- Msc in Genetics and Molecular Biology. Supervisor: Prof. Paula R. Kuser Falcao. Dissertation: Differential analysis on genes involved in beef tenderness in Angus and Nelore beef cattle.
+__Master of Science, Genetics and Molecular Biology__
+- Biology Institute, University of Campinas, SP, Brazil. 
+* Supervisor: Prof. Paula R. Kuser Falcao 
+* Co-supervisor: Dr. Adhemar Zerlotini Neto
 
 `2009 - 2012`
-__Federal University of Sao Carlos__
-- Bsc in Biotechnology.
+__Bacher of Science, Biotechnology__
+Federal University of Sao Carlos, SP, Brazil.
 
 
 ## Technical skills
@@ -68,6 +71,16 @@ Leyi Wei, Shasha Luan, **Luis Augusto Eijy Nagai**, Ran Su, Quan Zou.<br>
 **Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species**.<br> 
 Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)
 
+### Theses 
+`2019`
+**Luis Augusto Eijy Nagai**. A Computational Analysis of the Impact of 3D Chromosome Organization on its Gene Expression Regulation. PhD Thesis, University of Tokyo.
+
+`2015`
+**Luis Augusto Eijy Nagai**. Differential analysis on genes involved in beef tenderness in Angus and Nelore beef cattle. Master Dissertation, University of Campinas.
+
+
+
+## Presentations
 
 ### Talks
 
@@ -154,7 +167,7 @@ __Ad hoc review__ for MDPI journals: Genes, Applied Sciences, Healthcare.
 ### Professional activities: memberships
 
 `2018 - current`
-__Member__ at the [International Society for Computational Biology](https://www.iscb.org/index.php).
+__Member__ at the [International Society for Computational Biology](https://www.iscb.org/index.php)(ISCB).
 
 `2018 - current`
 __Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/)(JSBi).
