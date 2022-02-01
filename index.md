@@ -7,13 +7,14 @@ Biotechnologist, bioinformatician, data scientist.
 
 <div id="webaddress">
 <a href="https://en-coding.github.io/">https://en-coding.github.io/</a>
-| <a href="https://www.linkedin.com/in/enagai/">My linkedin page</a>
+| <a href="https://www.linkedin.com/in/enagai/">My linkedin page</a> 
+| nagai@iqb.u-tokyo.ac.jp
 </div>
 
 
 ## Currently
 
-I am a bioinformatics scientist at the [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html) located in the core of the [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/) of the [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
+I am a bioinformatics scientist hired as Project Researcher (特任研究員）at the [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html) located in the [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/) of the [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 
 ### Specialized in
 
@@ -23,7 +24,7 @@ NGS data analysis with experience in scRNA-seq, scATAC-seq, 3D chromatin (Hi-C),
 ### Employment
 
 `2021-today`
-__Nakato lab__ Project researcher (data scientist)
+__Nakato lab__ Project researcher (data scientist). Laboratory of Comutational Genomics
 
 `2020 - 2020`
 __Nakai lab__ Project assistant professor (data scientist)
